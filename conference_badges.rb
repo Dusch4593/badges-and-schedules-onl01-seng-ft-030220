@@ -27,3 +27,7 @@ def printer(attendees)
   binding.pry
   room_assignments.each{|assignment| puts assignment}
 end
+
+attendees = ["Brandon", "Greg", "Joe", "Ryan"]
+
+printer(attendees))
