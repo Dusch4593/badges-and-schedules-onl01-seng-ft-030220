@@ -30,4 +30,4 @@ end
 
 attendees = ["Brandon", "Greg", "Joe", "Ryan"]
 
-printer(attendees))
+printer(attendees)
