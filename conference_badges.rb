@@ -9,3 +9,7 @@ def batch_badge_creator(attendees)
   attendees.each{|attendee| messages << badge_maker(attendee)}
   return messages
 end
+
+def assign_rooms(attendees)
+  
+end
